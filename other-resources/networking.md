@@ -21,3 +21,12 @@
 - Layer 7: application layer
   - layer we see
   - HTTP, FTP, DNS
+
+## Networking devices
+- Router
+  - layer 3 - using IP for hoping
+  - LAN, WAN, copper, fiber
+- Switch
+  - layer 2 - forward traffic based on data link address
+  - hardware bridging (ASIC)
+  - provide Power over Ethernet(PoE), include routing functionality
